@@ -1,6 +1,6 @@
 {
   "name": "mod-arithmetic-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package with mathematical modular arithmetic operations like add, multiply, divide, etc...",
   "main": "index.js",
   "scripts": {},
@@ -18,7 +18,7 @@
     "multiplicative_inverse"
   ],
   "author": "JoKeR-VIKING (Pratham Vasani)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JoKeR-VIKING/modular-arithmetic-package/issues"
   },
